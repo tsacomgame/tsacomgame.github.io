@@ -9419,3 +9419,4 @@ pangleglobal.com, 82832, RESELLER
 pubnative.net, 1009966, RESELLER, d641df8625486a7b
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 arrow
+google.com, pub-7221758570802849, DIRECT, f08c47fec0942fa0
