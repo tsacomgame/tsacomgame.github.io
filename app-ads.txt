@@ -9981,7 +9981,7 @@ ssp.e-volution.ai, ajxf6r118a9m6catvk, reseller
 mman.kr, 32102, reseller
 rubiconproject.com, 25872, reseller, 0bfd66d529a55807
 
-#taurus
+#taurusX
 10000142-1253, DIRECT
 webeyemob.com, 10000142-1253, DIRECT
 caerulus.io, 3321-00276, DIRECT
